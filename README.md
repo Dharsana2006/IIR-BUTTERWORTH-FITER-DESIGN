@@ -9,8 +9,8 @@ PC installed with SCILAB.
 
 ## PROGRAM (LPF): 
 ```
-clc; close;
-
+clc;
+close;
 wp = input('Enter the pass band frequency (Radians )= ');
 ws = input('Enter the stop band frequency (Radians )= ');
 alphap = input('Enter the pass band attenuation (dB)= ');
